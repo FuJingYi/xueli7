@@ -1,0 +1,161 @@
+/*
+* @Author: lenovo
+* @Date:   2019-06-10 22:54:36
+* @Last Modified by:   lenovo
+* @Last Modified time: 2019-06-11 20:10:45
+*/
+*{
+	padding: 0;
+	margin: 0;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	width: 1200px 100%;
+	height: 32px;
+	background-color: #f4f4f4;
+}
+.left p1{
+	line-height: 32px;
+	float: left;
+}
+.right p2{
+	line-height: 32px;
+	float: right;
+}
+.nav00{
+	width: 1200px 100%;
+	height: 120px;
+}
+.nav01{
+	float: left;
+	margin-top: 21px;
+}
+.aa{
+	width: 405px;
+	height: 40px;
+	border: 2px solid red;
+	position: absolute;
+	top:80px;
+	left: 400px;
+}	
+
+.aaa{
+	width: 95px;
+	height: 44px;
+	background-color:red ;
+	color: white;
+	border: 4px red;
+	position: absolute;
+	left:809px ;
+	top: 80px;
+	
+}
+
+.nav03{
+	width: 150px 100%;
+	height: 40px;
+	float: right;
+	text-align: center;
+	line-height: 40px;
+	margin-top: 50px;
+	background-color: #f5f5f5;
+}
+.nav03 span{
+	color: red;
+}
+.nav10{
+	width: 1200px 100%;
+	height: 40px;
+	border-bottom: solid #e00304;
+}
+.nav10 p{
+	float: left;
+	line-height: 40px;
+}
+.nav10 p a{
+	text-align: center;
+	padding: 8px 17px;
+}
+.nav10 p a:hover{
+	background-color: red;
+	color:white;
+}
+.nav20{
+	width: 1200px 100%;
+	height: 650px;
+	background-color: #fbfbfb;
+}
+.nav21{
+	height: 80px;
+	background-color: white;
+	margin-top: 25px;
+}
+.nav22{
+	background-color: white;
+	width: 216px 100%;
+	height: 40px;
+}
+.nav22 img{
+	margin-left: 35px;
+}
+.nav23{
+	width: 216px;
+	height:511px;
+	background-color: white;
+}
+.nav23 li{
+	margin-left: 77px;
+}
+.nav24{
+	width: 968px;
+	height: 548px;
+	background-color: white;
+	position: absolute;
+	right:140px;
+	top: 270px;
+
+}
+.nav24 ul li{
+	width: 218px;
+	height: 252px;
+	text-align: center;
+	float: right;
+	margin: 0px 0px 20px 16px;
+	border: 1px solid #dbdbdb;
+}
+.nav30{
+	width: 1200px 100%;
+	height: 150px 100%;
+	background-color: #2e2e2e;
+	position: relative;
+}
+.nav31{
+	width: 1200px 100%;
+	height: 150px;
+	border-bottom: 1px solid #454545;
+}
+.nav31 ul{
+	margin-right: 150px;
+	float: left;
+}
+
+.nav31 ul li a{
+	color: white;
+}
+.nav40{
+	width: 1200px 100%;
+	height: 97px;
+}
+.nav40 p{
+	background-color: #2e2e2e;
+	text-align: center;
+	color: white;
+}
+.nav40 p a{
+	color: white;
+}
